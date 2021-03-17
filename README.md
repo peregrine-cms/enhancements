@@ -1,8 +1,12 @@
 # enhancements
 
-## Do you have an idea on how to make peregrine better? 
+## Got some ideas on how to make Peregrine better? 
 
 - create an issue at https://github.com/peregrine-cms/enhancements/issues
 - start a discussion at https://github.com/peregrine-cms/enhancements/discussions
 
-We'll try to group tickets together and discuss them/turn them into a larger feature. Let's make enhancement work for all users of Peregrine!
+As ideas and suggestions are added, we'll try grouping tickets together to discuss them and turn them into larger features. 
+
+If you have any feedback on how to improve this enhancements area, please let us know -- we want to make this work for all users of Peregrine.
+
+Let's make Peregrine something great together!
